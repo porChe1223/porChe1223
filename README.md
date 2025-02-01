@@ -1,11 +1,13 @@
 <!-- プロフィールや連絡先を変更 -->
 ## ✨ Hi there
 
-🧑‍💻 I'm studying to become a machine learning engineer.
+🔭 I'm studying to become a machine learning engineer.
+<br>
+<br>
 <br>
 
-## ⚡ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,html,css,js,ts,react,next,figma,python,fastapi,docker,azure" />
+## 🧑‍💻 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,html,css,tailwind,php,laravel,js,ts,react,materialui,next,figma,wordpress,python,opencv,sklearn,fastapi,md,latex,mysql,postgres,prisma,docker,azure,powershell,github,git,githubactions,linux,ubunts,vscode,eclipse,emacs" />
 <br>
 
 <!--

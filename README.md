@@ -6,16 +6,16 @@
 <br>
 
 ## ⚡ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=c,cpp,cmake" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,tailwind,js,ts,react,materialui,next" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=python,php,java,fastapi,laravel" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=figma,wordpress" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=opencv,sklearn,pytorch" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=mysql,postgres,prisma" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=git,github,githubactions" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=docker,ubuntu,linux,powershell" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=azure,gcp" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=md,latex" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=c,cpp,cmake" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,tailwind,js,ts,react,materialui,next" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=python,php,java,fastapi,laravel" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=figma,wordpress" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=opencv,sklearn,pytorch" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=mysql,postgres,prisma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=docker,ubuntu,linux,powershell" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=azure,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=md,latex" />
 <br>
 
 <!--

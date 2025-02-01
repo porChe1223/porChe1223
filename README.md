@@ -7,27 +7,17 @@
 <br>
 
 ## ⚡ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=c,cpp,cmake" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=java" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=html,css,tailwind,php,laravel,js,ts,react,materialui,next,figma,wordpress" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=python,opencv,sklearn,pytorch,fastapi" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=md,latex" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=mysql,postgres,prisma" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=docker,powershell,git,github,githubactions,ubuntu,linux,eclipse,vscode,emacs,azure" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=c,cpp,cmake" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=java" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=html,css,tailwind,php,laravel,js,ts,react,materialui,next,figma,wordpress" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=python,opencv,sklearn,pytorch,fastapi" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=md,latex" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=mysql,postgres,prisma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=docker,powershell,git,github,githubactions,ubuntu,linux,eclipse,vscode,emacs,azure" />
   
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=git,github,githubactions" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=docker,ubuntu," />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16
-  &i=linux,eclipse,vscode,emacs,azure" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=docker,ubuntu," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=linux,eclipse,vscode,emacs,azure" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=c,cpp,cmake,java,html,css,tailwind,php,laravel,js,ts,react,materialui,next,figma,wordpress,python,opencv,sklearn,pytorch,fastapi,md,latex,mysql,postgres,prisma,docker,powershell,git,github,githubactions,ubuntu,linux,eclipse,vscode,emacs,azure" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=c,cpp,cmake,java,html,css,tailwind,php,laravel,js,ts,react,materialui,next,figma,wordpress,python,opencv,sklearn,pytorch,fastapi,md,latex,mysql,postgres,prisma,docker,powershell,git,github,githubactions,ubuntu,linux,eclipse,vscode,emacs,azure" />
 <br>

@@ -11,6 +11,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=java" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=html,css,tailwind,php,laravel,js,ts,react,materialui,next" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=php,laravel,fastapi" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=figma,wordpress" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=python,opencv,sklearn,pytorch" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=mysql,postgres,prisma" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=git,github,githubactions" />
@@ -18,7 +19,6 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=visualstudio,vscode,eclipse,emacs" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=azure" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=md,latex" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=figma,wordpress" />
 <br>
 
 <!--

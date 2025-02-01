@@ -4,6 +4,9 @@
 🧑‍💻 I'm studying to become a machine learning engineer.
 <br>
 
+## ⚡ Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,html,css,js,ts,react,next,figma,python,fastapi,docker,azure" />
+<br>
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

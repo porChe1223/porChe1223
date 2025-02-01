@@ -5,10 +5,8 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=figma,wordpress" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=opencv,sklearn,pytorch" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=mysql,postgres,prisma" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=git,github,githubactions" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=docker,ubuntu,linux,powershell" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=docker,ubuntu,linux,powershell,git,github,githubactions" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=azure,gcp" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=md,latex" />
 <br>
 
 <!--

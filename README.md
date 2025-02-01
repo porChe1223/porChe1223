@@ -1,6 +1,6 @@
 ## 🌱 I'm studying to become a machine learning engineer.
 <br>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=c,cpp,cmake" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=c,cpp,cmake\ncmake" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=html,css,tailwind,js,ts,react,materialui,next" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=python,php,java,fastapi,laravel" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=figma,wordpress" />

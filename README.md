@@ -9,7 +9,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## ⚡ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,c++,html,css,php,brade,laravel,js,ts,react,next,figma,python,falcon,fastapi,docker,azure" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cplus,html,css,php,brade,laravel,js,ts,react,next,figma,python,falcon,fastapi,docker,azure" />
 <br>
 
 
@@ -18,7 +18,7 @@
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=porChe1223&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=porChe1223&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=porChe1223&theme=radical&layout=compact" />
 </div>
 
 

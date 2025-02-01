@@ -7,7 +7,7 @@
 <br>
 
 ## ⚡ Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=radical&perline=14&i=c,cpp,html,css,tailwind,php,laravel,js,ts,react,materialui,next,figma,wordpress,python,opencv,sklearn,fastapi,md,latex,mysql,postgres,prisma,docker,azure,powershell,github,git,githubactions,linux,ubuntu,vscode,eclipse,emacs" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=c,cpp,html,css,tailwind,php,laravel,js,ts,react,materialui,next,figma,wordpress,python,opencv,sklearn,fastapi,md,latex,mysql,postgres,prisma,docker,azure,powershell,github,git,githubactions,linux,ubuntu,vscode,eclipse,emacs" />
 <br>
 
 <!--

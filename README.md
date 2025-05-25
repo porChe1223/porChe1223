@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=porChe1223&color=brightgreen&style=flat)
 ## 🌱 I'm studying to become a machine learning engineer.
 <br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=html,css,tailwind,js,ts,react,materialui,next" />

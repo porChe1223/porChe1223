@@ -2,8 +2,6 @@
 
 ## 🌱 I'm studying to become a machine learning engineer.
 
-### 🛠 Tech Stack
-
 #### 💻 Frontend
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=16&i=ts,react,next,js,html" />

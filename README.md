@@ -11,15 +11,9 @@
 # MOST PASSIONATE ABOUT...
 # 🧠 Machine Learning
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv&titles=true&perline=3" align="left" width="40%" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,huggingface,numpy,pandas,opencv&titles=true&perline=3" align="left" width="40%" />
 
 I use deep learning frameworks to build original and customized machine learning engines, including Bayesian optimization, time-based models (RNN), and CNN architectures.
-
-<br clear="left" />
-
-My Hugging Face
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&titles=true&perline=5" align="left" width="40%" />
 
 I am actively training Large Language Models including Qwen-3, Phi-4, and Llama-3. I primarily source datasets from Hugging Face and evaluate performance using benchmarks such as SuperGPQA, HLE, Agentbench, and StructEval.
 

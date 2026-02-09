@@ -10,32 +10,84 @@
 
 # MOST PASSIONATE ABOUT...
 # 🧠 Machine Learning
-![AI Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,numpy,pandas,opencv&titles=true&perline=5)
+<table>
+<tr>
+<td width="40%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv&titles=true&perline=3" />
+</td>
+<td width="60%">
 
+I use deep learning frameworks to build original and customized machine learning engines, including Bayesian optimization, time-based models (RNN), and CNN architectures.
+
+</td>
+</tr>
+</table>
 My Hugging Face
+<table>
+<tr>
+<td width="40%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&titles=true&perline=5" />
+</td>
+<td width="60%">
 
-![AI Skills](https://go-skill-icons.vercel.app/api/icons?i=huggingface&titles=true&perline=5)
+I am actively training Large Language Models including Qwen-3, Phi-4, and Llama-3. I primarily source datasets from Hugging Face and evaluate performance using benchmarks such as SuperGPQA, HLE, Agentbench, and StructEval.
+
+I also train CNN-based models like YOLO. I mainly reference datasets from Roboflow and have worked on practical applications including bacterial detection in medical domains and automated danger prediction systems for kindergartens that detect adults, children, and objects.
+
+</td>
+</tr>
+</table>
 
 # 🤖 AI Engineering
-![AI Engineering Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,googleanalytics,streamlit&titles=true&perline=5)
+<table>
+<tr>
+<td width="40%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,streamlit,googleanalytics&titles=true&perline=3" />
+</td>
+<td width="60%">
+
+I utilize data analytics APIs including Google Analytics, and frameworks like LangChain and DSPy to build AI applications. I have created analytics systems to increase blog user acquisition and AI agents for recommending promising talent.
+
+</td>
+</tr>
+</table>
 
 # 💻 Frontend
-![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,playwright,storybook&titles=true&perline=5)
+<table>
+<tr>
+<td width="40%">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,playwright,storybook&titles=true&perline=3" />
+</td>
+<td width="60%">
+
+I'm interested in modern web development with TypeScript and the React ecosystem for building scalable user interfaces, including testing frameworks. This knowledge will be valuable for my goal of becoming a Project Manager.
+
+</td>
+</tr>
+</table>
 
 ## Also Passionate about...
 ## ⚙️ Backend
 ![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,django,djangorestframework,golang,gin,rust,swagger&titles=true&perline=10)
 
+I'm interested in modern backend development with Go, Rust, and Python. Recently, I'm studying architectural strategies and have a passion for type systems.
+
 ## 🐳 Container/Infra
 ![Container/Infra Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,azure,gcp,ngrok&titles=true&perline=10)
 
+To become a strong engineer, I believe I must study how to operate and scale applications and ML models. This conviction comes from my past development experience.
+
 ## 🗄️ Data
-![Container/Infra Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,dynamodb,celery,s3&titles=true&perline=10)
+![Data Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,dynamodb,celery,s3&titles=true&perline=10)
+
+As long as data is properly organized, you can create reasonably good models even with suboptimal approaches. I believe that handling massive datasets is unavoidable for creating better models.
 
 # Some Interest in...
 
-### 🎨 Design
-![Design Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,mermaid&titles=true&perline=20)
-
-### Styling / Animation
-![Styling Skills](https://go-skill-icons.vercel.app/api/icons?i=materialui,shadcn,tailwindcss,css,threejs&titles=true&perline=20)
+### 🎨 Design / Styling (Animation)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma&titles=true" width="5%" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=canva&titles=true" width="5%" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=materialui&titles=true" width="5%" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn&titles=true" width="5%" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss&titles=true" width="5%" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=threejs&titles=true" width="5%" />

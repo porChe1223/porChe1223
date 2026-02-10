@@ -16,7 +16,7 @@
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,huggingface,numpy,pandas,matplotlib,opencv&titles=true&perline=3" align="left" width="40%" />
 
-I use deep learning frameworks to build original and customized machine learning engines, including Bayesian optimization, time-based models (RNN), and CNN architectures.
+I use deep learning frameworks to build original and customized machine learning engines, including object-detection models(CNN), time-based models (RNN), and Bayesian optimization.
 
 I am actively training Large Language Models including Qwen-3, Phi-4, and Llama-3. I primarily source datasets from Hugging Face and evaluate performance using benchmarks such as SuperGPQA, HLE, Agentbench, and StructEval.
 
@@ -28,7 +28,7 @@ I also train CNN-based models like YOLO. I mainly reference datasets from Robofl
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,streamlit,googleanalytics&titles=true&perline=3" align="left" width="40%" />
 
-I utilize data analytics APIs including Google Analytics, and frameworks like LangChain and DSPy to build AI applications. I have created analytics systems to increase blog user acquisition and AI agents for recommending promising talent.
+I utilize data analytics APIs including Google Analytics, and frameworks like LangChain, DSPy, and Mastra to build AI applications. I have created analytics systems to increase blog user acquisition and AI agents for recommending promising talent.
 
 <br clear="left" />
 

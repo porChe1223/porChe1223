@@ -47,7 +47,7 @@ I'm interested in modern web development with TypeScript and the React ecosystem
 I'm interested in modern backend development with Go, Rust, and Python. Recently, I'm studying architectural strategies to make application readable (especially for Python projects) and maintainable.
 
 ## 🐳 Container/Infra
-![Container/Infra Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,azure,gcp,ngrok&titles=true&perline=10)
+![Container/Infra Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,azure,ngrok&titles=true&perline=10)
 
 To become a strong engineer, I believe I must study how to operate and scale applications and ML models. This conviction comes from my past development experience.
 
@@ -62,7 +62,6 @@ As long as data is properly organized, you can create reasonably good models eve
 <div style="display: flex; gap: 10px; align-items: center;">
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&titles=true" width="4%" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=canva&titles=true" width="4%" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=materialui&titles=true" width="4%" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn&titles=true" width="4%" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss&titles=true" width="4%" />

@@ -1,6 +1,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=porChe1223&color=brightgreen&style=flat) -->
 
-# 🌱 I'm studying to become a Machine Learning Engineer => Project Manager.
+# 🌱 I'm studying to become a Machine Learning Engineer => Product Manager.
 
 <br>
 <br>
@@ -36,7 +36,7 @@ I utilize data analytics APIs including Google Analytics, and frameworks like La
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,tanstack,playwright,storybook&titles=true&perline=3" align="left" width="40%" />
 
-I'm interested in modern web development with TypeScript and the React ecosystem for building scalable user interfaces, including testing frameworks. This knowledge will be valuable for my goal of becoming a Project Manager.
+I'm interested in modern web development with TypeScript and the React ecosystem for building scalable user interfaces, including testing frameworks. This knowledge will be valuable for my goal of becoming a Product Manager.
 
 <br clear="left" />
 
@@ -47,9 +47,9 @@ I'm interested in modern web development with TypeScript and the React ecosystem
 I'm interested in modern backend development with Go, Rust, and Python. Recently, I'm studying architectural strategies to make application readable (especially for Python projects) and maintainable.
 
 ## 🐳 Container/Infra
-![Container/Infra Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,azure,ngrok&titles=true&perline=10)
+![Container/Infra Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,aws,azure&titles=true&perline=10)
 
-To become a strong engineer, I believe I must study how to operate and scale applications and ML models. This conviction comes from my past development experience.
+To become a strong engineer, I believe I must study how to operate and scale applications and ML models.
 
 ## 🗄️ Data
 ![Data Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,dynamodb,celery,s3&titles=true&perline=10)
